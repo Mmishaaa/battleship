@@ -9,7 +9,6 @@
         "start:dev": "tsx watch ./index.ts",
         "lint": "eslint --ext .js,.ts --fix src/"
     },
-    "author": "Andrei Auchynnikau",
     "keywords": [],
     "license": "ISC",
     "dependencies": {
